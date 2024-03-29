@@ -1,0 +1,1120 @@
+Uri: https://csduragi.com/
+File Name: C:\Downloaded Web Sites\csduragi.com\index.htm
+Content Type: text/html
+
+Uri: https://csduragi.com/content/images/2023/04/03/eklentiyukleme_300w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\03\eklentiyukleme_300w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-derleme-basarili.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-derleme-basarili.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-derleme-basarili_1024w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-derleme-basarili_1024w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-derleme-basarili_300w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-derleme-basarili_300w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-derleme-basarili_500w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-derleme-basarili_500w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-derleme-basarili_768w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-derleme-basarili_768w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-dosya-yapisi.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-dosya-yapisi.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-dosya-yapisi_300w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-dosya-yapisi_300w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-dosya-yapisi_500w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-dosya-yapisi_500w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-dosya-yapisi_768w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-dosya-yapisi_768w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-yukleme.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-yukleme.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-yukleme_1024w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-yukleme_1024w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-yukleme_300w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-yukleme_300w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-yukleme_500w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-yukleme_500w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/cs16-panel-eklenti-yukleme_768w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\cs16-panel-eklenti-yukleme_768w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/yuklenen-eklentinin-servera-kurulmasi.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\yuklenen-eklentinin-servera-kurulmasi.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/yuklenen-eklentinin-servera-kurulmasi_1024w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\yuklenen-eklentinin-servera-kurulmasi_1024w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/yuklenen-eklentinin-servera-kurulmasi_300w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\yuklenen-eklentinin-servera-kurulmasi_300w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/yuklenen-eklentinin-servera-kurulmasi_500w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\yuklenen-eklentinin-servera-kurulmasi_500w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/04/yuklenen-eklentinin-servera-kurulmasi_768w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\04\yuklenen-eklentinin-servera-kurulmasi_768w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-assault-botlar.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-assault-botlar.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-assault-botlar_1024w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-assault-botlar_1024w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-assault-botlar_300w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-assault-botlar_300w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-assault-botlar_500w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-assault-botlar_500w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-assault-botlar_768w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-assault-botlar_768w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-botlar-yukleniyor.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-botlar-yukleniyor.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-botlar-yukleniyor_1024w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-botlar-yukleniyor_1024w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-botlar-yukleniyor_300w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-botlar-yukleniyor_300w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-botlar-yukleniyor_500w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-botlar-yukleniyor_500w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-botlar-yukleniyor_768w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-botlar-yukleniyor_768w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-botlarla-oynama.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-botlarla-oynama.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-botlarla-oynama_1024w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-botlarla-oynama_1024w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-botlarla-oynama_300w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-botlarla-oynama_300w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-botlarla-oynama_500w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-botlarla-oynama_500w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/04/06/cs16-botlarla-oynama_768w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\04\06\cs16-botlarla-oynama_768w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/05/09/cs16-gelismis-gag-sistemi.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\05\09\cs16-gelismis-gag-sistemi.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/05/09/cs16-gelismis-gag-sistemi_src_300w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\05\09\cs16-gelismis-gag-sistemi_src_300w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/05/09/cs16-gelismis-gag-sistemi_src_400w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\05\09\cs16-gelismis-gag-sistemi_src_400w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/05/09/cs16-gelismis-gag-sistemi_src_500w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\05\09\cs16-gelismis-gag-sistemi_src_500w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/content/images/2023/05/12/counter-strike-16_src_300w.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\content\images\2023\05\12\counter-strike-16_src_300w.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/counter-strike
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/botlarla-cs-16-nasil-oynanir.html
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\botlarla-cs-16-nasil-oynanir.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-kiralama-kurma.html
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-kiralama-kurma.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-listesi.html
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-listesi.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-listesi.html?sayfa=2
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-listesi-2.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-listesi.html?sayfa=3
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-listesi-3.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-listesi.html?sayfa=4
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-listesi-4.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-listesi.html?sayfa=5
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-listesi-5.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-listesi.html?sayfa=6
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-listesi-6.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-listesi.html?sort=players
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-listesi-1.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-listesi.html?sort=players&sayfa=2
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-listesi-7.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-listesi.html?sort=players&sayfa=3
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-listesi-8.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-listesi.html?sort=players&sayfa=4
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-listesi-9.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-listesi.html?sort=players&sayfa=5
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-listesi-10.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-1-6-server-listesi.html?sort=players&sayfa=6
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-1-6-server-listesi-11.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/cs-16-gag-eklentisi-sql.html
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\cs-16-gag-eklentisi-sql.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/csduragi-cs-16-panele-eklenti-nasil-yuklenir.html
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\csduragi-cs-16-panele-eklenti-nasil-yuklenir.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs1.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs1.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs1.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs1.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs10.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs10.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs10.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs10.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs100.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs100.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs103.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs103.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs104.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs104.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs105.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs105.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs106.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs106.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs107.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs107.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs108.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs108.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs109.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs109.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs11.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs11.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs11.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs11.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs110.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs110.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs111.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs111.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs112.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs112.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs113.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs113.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs114.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs114.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs115.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs115.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs116.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs116.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs117.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs117.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs119.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs119.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs12.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs12.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs12.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs12.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs121.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs121.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs123.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs123.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs124.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs124.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs125.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs125.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs126.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs126.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs13.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs13.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs130.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs130.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs131.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs131.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs14.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs14.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs147.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs147.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs149.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs149.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs15.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs15.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs154.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs154.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs155.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs155.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs156.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs156.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs157.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs157.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs158.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs158.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs16.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs16.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs160.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs160.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs161.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs161.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs162.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs162.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs163.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs163.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs17.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs17.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs170.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs170.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs171.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs171.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs173.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs173.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs176.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs176.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs18.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs18.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs185.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs185.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs186.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs186.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs19.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs19.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs192.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs192.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs193.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs193.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs196.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs196.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs197.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs197.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs198.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs198.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs199.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs199.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs2.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs2.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs2.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs2.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs20.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs20.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs21.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs21.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs217.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs217.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs218.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs218.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs219.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs219.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs22.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs22.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs220.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs220.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs221.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs221.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs222.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs222.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs223.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs223.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs224.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs224.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs226.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs226.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs227.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs227.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs228.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs228.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs229.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs229.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs23.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs23.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs230.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs230.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs231.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs231.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs232.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs232.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs233.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs233.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs234.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs234.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs235.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs235.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs236.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs236.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs237.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs237.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs238.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs238.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs239.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs239.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs24.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs24.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs240.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs240.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs241.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs241.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs242.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs242.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs243.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs243.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs244.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs244.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs245.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs245.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs246.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs246.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs248.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs248.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs249.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs249.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs25.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs25.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs250.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs250.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs251.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs251.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs26.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs26.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs27.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs27.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs28.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs28.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs29.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs29.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs3.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs3.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs3.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs3.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs30.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs30.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs31.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs31.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs32.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs32.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs33.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs33.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs34.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs34.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs35.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs35.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs36.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs36.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs38.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs38.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs39.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs39.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs4.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs4.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs4.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs4.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs40.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs40.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs41.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs41.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs42.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs42.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs43.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs43.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs44.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs44.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs45.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs45.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs46.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs46.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs47.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs47.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs48.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs48.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs49.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs49.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs5.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs5.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs5.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs5.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs50.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs50.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs51.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs51.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs52.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs52.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs53.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs53.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs55.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs55.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs56.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs56.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs57.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs57.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs58.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs58.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs59.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs59.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs6.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs6.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs6.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs6.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs60.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs60.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs61.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs61.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs62.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs62.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs63.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs63.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs64.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs64.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs65.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs65.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs66.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs66.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs67.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs67.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs68.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs68.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs69.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs69.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs7.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs7.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs7.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs7.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs70.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs70.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs71.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs71.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs72.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs72.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs73.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs73.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs74.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs74.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs75.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs75.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs76.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs76.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs77.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs77.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs78.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs78.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs79.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs79.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs8.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs8.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs8.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs8.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs80.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs80.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs81.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs81.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs82.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs82.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs83.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs83.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs84.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs84.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs86.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs86.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs88.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs88.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs89.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs89.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs9.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs9.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs9.csduragi.net
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs9.csduragi.net.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs90.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs90.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs93.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs93.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/cs99.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\cs99.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/dm.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\dm.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/hl.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\hl.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/hl2.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\hl2.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/hl3.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\hl3.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/counter-strike/server/hl4.csduragi.com
+File Name: C:\Downloaded Web Sites\csduragi.com\counter-strike\server\hl4.csduragi.com.html
+Content Type: text/html
+
+Uri: https://csduragi.com/cs-1.6-full-indir.html
+File Name: C:\Downloaded Web Sites\csduragi.com\cs-1.6-full-indir.html
+Content Type: text/html
+
+Uri: https://csduragi.com/css/csduragi.css
+File Name: C:\Downloaded Web Sites\csduragi.com\css\csduragi.css
+Content Type: text/css
+
+Uri: https://csduragi.com/css/prism.css
+File Name: C:\Downloaded Web Sites\csduragi.com\css\prism.css
+Content Type: text/css
+
+Uri: https://csduragi.com/etiket/cs-16
+File Name: C:\Downloaded Web Sites\csduragi.com\etiket\cs-16.html
+Content Type: text/html
+
+Uri: https://csduragi.com/etiket/cs-16-bot
+File Name: C:\Downloaded Web Sites\csduragi.com\etiket\cs-16-bot.html
+Content Type: text/html
+
+Uri: https://csduragi.com/etiket/cs-16-panel
+File Name: C:\Downloaded Web Sites\csduragi.com\etiket\cs-16-panel.html
+Content Type: text/html
+
+Uri: https://csduragi.com/etiket/eklenti
+File Name: C:\Downloaded Web Sites\csduragi.com\etiket\eklenti.html
+Content Type: text/html
+
+Uri: https://csduragi.com/favicon.png
+File Name: C:\Downloaded Web Sites\csduragi.com\favicon.png
+Content Type: image/png
+
+Uri: https://csduragi.com/gizlilikpolitikasi.html
+File Name: C:\Downloaded Web Sites\csduragi.com\gizlilikpolitikasi.html
+Content Type: text/html
+
+Uri: https://csduragi.com/hesapno.html
+File Name: C:\Downloaded Web Sites\csduragi.com\hesapno.html
+Content Type: text/html
+
+Uri: https://csduragi.com/hizmetsozlesmesi.html
+File Name: C:\Downloaded Web Sites\csduragi.com\hizmetsozlesmesi.html
+Content Type: text/html
+
+Uri: https://csduragi.com/img/anasayfa/slide/counter-strike-slide.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\anasayfa\slide\counter-strike-slide.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/bankalar/enpara.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\bankalar\enpara.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/bankalar/garanti.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\bankalar\garanti.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/bankalar/isbankasi.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\bankalar\isbankasi.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/bankalar/teb.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\bankalar\teb.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/bankalar/zb_logo.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\bankalar\zb_logo.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/csduragi-logo.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\csduragi-logo.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csana/counter-strike-banner.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csana\counter-strike-banner.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csindir/cs16-hizli-adminlik.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csindir\cs16-hizli-adminlik.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csindir/cs16-ozel-istemci-medium.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csindir\cs16-ozel-istemci-medium.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csindir/cs16-ozel-istemci-small.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csindir\cs16-ozel-istemci-small.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csindir/cs16-ozel-istemci.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csindir\cs16-ozel-istemci.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csindir/cs16-ozel-launcher-medium.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csindir\cs16-ozel-launcher-medium.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csindir/cs16-ozel-launcher-small.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csindir\cs16-ozel-launcher-small.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csindir/cs16-ozel-launcher.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csindir\cs16-ozel-launcher.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csindir/cs16-server-listesi-medium.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csindir\cs16-server-listesi-medium.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csindir/cs16-server-listesi-small.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csindir\cs16-server-listesi-small.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csindir/cs16-server-listesi.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csindir\cs16-server-listesi.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csindir/hem-cs16-hem-hl.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csindir\hem-cs16-hem-hl.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/cstrike/csindir/hizlits3baglan.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\cstrike\csindir\hizlits3baglan.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/guest_avatar.png
+File Name: C:\Downloaded Web Sites\csduragi.com\img\guest_avatar.png
+Content Type: image/png
+
+Uri: https://csduragi.com/img/icons/anasayfa_network.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\icons\anasayfa_network.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/icons/anasayfa_server.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\icons\anasayfa_server.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/img/icons/ddos_koruma.webp
+File Name: C:\Downloaded Web Sites\csduragi.com\img\icons\ddos_koruma.webp
+Content Type: image/webp
+
+Uri: https://csduragi.com/serverlistesi.exe
+File Name: C:\Downloaded Web Sites\csduragi.com\serverlistesi.exe
+Content Type: application/octet-stream
+
+Uri: https://csturkey.gen.tr/csduragi_cs16.zip
+File Name: C:\Downloaded Web Sites\csduragi.com\csduragi_cs16.zip
+Content Type: application/zip
+
